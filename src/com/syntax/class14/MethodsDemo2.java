@@ -13,10 +13,11 @@ public class MethodsDemo2 {
 	void print() {
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Batch 13 is great!");
+			
 		}
 	}
-	
-	
+
+
 	void printManyTimes(int times) {
 		for (int i = 0; i < times; i++)
 			System.out.print("Batch 13 is great!");
